@@ -1,0 +1,27 @@
+.nav {
+    position:fixed;
+    width:240px;
+    height:100%;
+    top:0;
+    left:0;
+    padding-top:100px;
+    background:#000;
+    overflow:auto;
+    a{
+        width:200px;
+        text-indent:20px;
+        display:block;
+        margin:20px;
+    }
+}
+
+.view-content{
+    width:100%;
+    padding: 50px 50px 50px 290px;
+    .intro{
+        width:100%;
+        padding:20px;
+        border:1px dashed #eee;
+    }
+
+}

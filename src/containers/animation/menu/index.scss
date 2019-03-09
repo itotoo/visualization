@@ -1,0 +1,25 @@
+.nav {
+    position:fixed;
+    width:240px;
+    height:100%;
+    top:0;
+    left:0;
+    padding-top:100px;
+    background:#000;
+    overflow:auto;
+    a{
+        width:200px;
+        text-indent:20px;
+        display:block;
+        margin:20px;
+        color:#ddd;
+    }
+}
+.view{
+    width:880px;
+    min-height:600px;
+    padding:30px;
+    border-radius:30px;
+    background:#eee;
+    margin:50px auto;
+}
