@@ -25,6 +25,7 @@ export default class header extends React.Component{
                         <li> <Link to="/react" replace>react组件</Link> </li>
                         <li> <Link to="/animation" replace>动效</Link> </li>
                         <li> <Link to="/global" replace>全局</Link> </li>
+                        <li> <Link to="/illustrate" replace>说明</Link> </li>
                     </ul>
                 </div>
             </div>
